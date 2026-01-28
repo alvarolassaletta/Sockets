@@ -35,7 +35,8 @@ Por tanto, el fichero va a ser un recurso compartido que hay que proteger.
 - Cada mensaje enviado o recibido se escribe en el log usando `ChatUtils`.
 
 ## Resultado del log 
-![img.png](logScreenshot.png)
+
+![Captura del log](logScreenshot.png)
 
 
 ## Notas 
